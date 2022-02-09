@@ -4,7 +4,7 @@ The new generation of college applicants has practically grown up on the interne
 
 
 |     ROLL N      |     NAME       |                         ROLE                      |
-| -------------   |:--------------:| -------------------------------------------------:|
+| -------------   |:--------------:| :------------------------------------------------:|
 | CB.EN.U4CSE19218|SAI PRASHANTH   | Tester & FrontEnd Developer                       |
 | CB.EN.U4CSE19219| K.AKSHITHA     | Business Analyst& Report Developer                |
 | CB.EN.U4CSE19238| RAGUL JC       | Software Engineer                                 |
