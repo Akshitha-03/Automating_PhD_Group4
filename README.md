@@ -10,3 +10,11 @@ The new generation of college applicants has practically grown up on the interne
 | CB.EN.U4CSE19238| RAGUL JC       | Software Engineer                                 |
 | CB.EN.U4CSE19261| VISHAL AS      | BackEnd Developer                                 |
 | CB.EN.U4CSE19262| VISHVAJIT S    | Project Manager, Scrum Master &Software Developer |
+
+<hr>
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
+   <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
+   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://firebase.google.com/" target="_blank"> <img src="https://commons.wikimedia.org/wiki/File:Firebase_Logo.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
