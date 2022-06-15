@@ -19,3 +19,6 @@ The new generation of college applicants has practically grown up on the interne
    <a href="https://www.java.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://firebase.google.com/images/brand-guidelines/logo-built_white.png" alt="firebase" width="40" height="40"/> </a>
 </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+
+<hr>
+<h4>Note: index.html is the starting homepage.</h4>
